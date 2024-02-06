@@ -1,0 +1,12 @@
+.slider-container {
+  background-color: transparent;
+  padding: 40px;
+  width: 100vw;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 50px;
+}

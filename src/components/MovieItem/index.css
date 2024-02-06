@@ -1,0 +1,37 @@
+.popup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  border: 0 none;
+}
+.popUp-container {
+  background-color: #ffffff;
+  height: 63vh;
+  width: 55vw;
+  border: 0 #ffffff solid;
+  border-radius: 10px;
+}
+.image {
+  cursor: pointer;
+}
+.video-player-container {
+  margin-left: 30px;
+}
+
+.close-icon {
+  height: 4vh;
+  width: 2vw;
+  color: #000000;
+}
+.buttonStyle {
+  background-color: transparent;
+  border: 0 none;
+  align-self: flex-end;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
